@@ -4,7 +4,6 @@
 
 [![Website Badge](https://img.shields.io/badge/-gdbarros.com.br-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://gdbarros.com.br)](https://gdbarros.com.br)
 [![GitHub Badge](https://img.shields.io/badge/-gdbarros94-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gdbarros94)](https://github.com/gdbarros94)
-[![LinkedIn Badge](https://img.shields.io/badge/-Gabriel%20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barros94/)](https://www.linkedin.com/in/gabriel-barros94/)
 ![Profile Views](https://komarev.com/ghpvc/?username=gdbarros94&color=blue)
 ![GitHub Status](https://img.shields.io/github/followers/gdbarros94?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/gdbarros94?style=social)
