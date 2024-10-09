@@ -13,7 +13,7 @@
 ## 🎯 About Me
 ##### [Leia em portugues](https://github.com/gdbarros94/gdbarros94/blob/main/README_pt_BR.md)
 "I turn challenges into opportunities."  
-As a **professor** and **developer**, I'm passionate about teaching, technology, and creating innovative solutions that positively impact people and organizations.
+As a **professor** and **developer**, I'm passionate about teaching technology, and creating innovative solutions that positively impact people and organizations.
 
 With hands-on experience in system development and pedagogical expertise, I help transform technical education and corporate training into something accessible and practical.
 
