@@ -14,7 +14,7 @@
 ## 🎯 Sobre Mim
 
 "Transformo desafios em oportunidades."  
-Como **professor** e **desenvolvedor**, sou apaixonado por ensinar, tecnologia e criar soluções inovadoras que impactam positivamente pessoas e organizações.
+Como **professor** e **desenvolvedor**, sou apaixonado por ensinar tecnologia e criar soluções inovadoras que impactam positivamente pessoas e organizações.
 
 Com experiência prática em desenvolvimento de sistemas e expertise pedagógica, ajudo a transformar a educação técnica e a capacitação corporativa em algo acessível e prático.
 
