@@ -1,93 +1,142 @@
-# 👾 Olá, eu sou Gabriel Barros
+# 👾 Gabriel Barros
 
-[![Website Badge](https://img.shields.io/badge/-gdbarros.com.br-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://gdbarros.com.br)](https://gdbarros.com.br)  
-[![GitHub Badge](https://img.shields.io/badge/-gdbarros94-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gdbarros94)](https://github.com/gdbarros94)  
-![Profile Views](https://komarev.com/ghpvc/?username=gdbarros94&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/gdbarros94?label=Followers&style=social)  
-
----
-
-## 🌟 Sobre Mim
-
-Sou **Gerente de TI**, **Professor de Desenvolvimento de Sistemas** e **Especialista em Desenvolvimento Web e Servidores Linux**. Com mais de uma década dedicando-me à inovação digital, ensino no **Senac Novo Hamburgo**, gerencio as operações de TI de agências e crio soluções sob medida para negócios.
+[![Website Badge](https://img.shields.io/badge/-gdbarros.com.br-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://gdbarros.com.br)](https://gdbarros.com.br)
+[![GitHub Badge](https://img.shields.io/badge/-gdbarros94-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/gdbarros94)](https://github.com/gdbarros94)
+![Profile Views](https://komarev.com/ghpvc/?username=gdbarros94&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/gdbarros94?label=Followers&style=social)
 
 ---
 
-## 🏢 Meus Papéis
+## 🚀 Sobre Mim
 
-- **Professor de Desenvolvimento de Sistemas** no Senac Novo Hamburgo.
-- **Gerente de TI** na [DigitalEyes](https://digitaleYes.com.br).
-- **Fundador e CEO** das agências [Highdevs](https://highdevs.com.br) e [TMDStudio](https://tmdstudio.com.br).
-- **Especialista em Inteligência Artificial**, desenvolvendo modelos customizados.
-- **Consultor de TI**, oferecendo soluções de baixo custo e alta robustez para empresas, agências e clínicas.
+Sou **Engenheiro de Software, Professor e Arquiteto de Soluções** com foco em **infraestrutura Linux, automação inteligente e engenharia de IA aplicada a sistemas reais**.  
+Atuo há mais de 10 anos unindo **educação tecnológica, engenharia de software e visão de produto**, criando ecossistemas que transformam dados, pessoas e processos.
 
----
-
-## 💡 Competências e Foco
-
-- **Desenvolvimento Web**: soluções front‑end e back‑end para agências e empresas digitais.
-- **Servidores Linux**: administração avançada de Ubuntu Server e ambientes customizados do zero.
-- **Segurança & Escalabilidade**: arquiteturas resilientes, monitoramento e processos operacionais.
-- **Inteligência Artificial**: criação de modelos e pacotes de prompts para automação de tarefas e resolução de problemas.
-- **Consultoria em TI**: análise de requisitos, planejamento de infraestrutura e gestão de projetos.
+Ensino **Desenvolvimento de Sistemas** no **Senac Novo Hamburgo**, lidero equipes de TI e **projeto arquiteturas de alto desempenho** — desde CRMs e APIs até plataformas distribuídas com análise de dados e IA integrada.  
+Minha abordagem parte de um princípio simples: **liberdade com responsabilidade e propósito técnico sólido**.
 
 ---
 
-## 🛠️ Stack de Tecnologias
+## 🧭 Áreas de Atuação
 
-<div align="left">
+- **Engenharia de Software e Arquitetura de Sistemas**
+  - Criação de frameworks e arquiteturas modulares orientadas a IA.  
+  - Desenvolvimento de APIs, automações e sistemas distribuídos.  
+  - Design de pipelines de dados e geração de insights automatizados.
 
-### Linguagens e Frameworks
-<img src="https://img.shields.io/badge/C-%233076AB.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-%235A5A99.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-<img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Lua-%230080C0.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+- **Infraestrutura e DevOps**
+  - Implantação de servidores Linux customizados (Ubuntu, Debian).  
+  - Contêineres e orquestração (Docker, Redis, RabbitMQ).  
+  - Observabilidade, segurança e automação de deploy.
 
-### DevOps & Infraestrutura
-<img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Terraform-%23525E6C.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Shell-%23211F1F.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+- **Inteligência Artificial Aplicada**
+  - Modelos de automação baseados em LLMs e prompt engineering avançado.  
+  - Criação de camadas cognitivas para sistemas empresariais.  
+  - Integração entre IA e bancos de dados para geração de análises e relatórios autônomos.
 
-### Banco de Dados & Cloud
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/OracleCloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-
-</div>
+- **Educação e Mentoria Técnica**
+  - Professor de Desenvolvimento de Sistemas e Mobile.  
+  - Palestras e workshops sobre mentalidade empreendedora, IA e desenvolvimento moderno.  
+  - Formação de alunos e profissionais com foco em autonomia e propósito técnico.
 
 ---
 
-## 🎖️ Certificações
+## 🧠 Filosofia de Desenvolvimento
 
-- **Oracle ODBC**  
-- **Oracle Cloud Specialist**  
-- **Prompt Engineer Certified**  
-- **Proficiência em Inglês**  
+Curiosidade para entender como coisas, pessoas e sistemas funcionam, transformar tudo em conhecimento e ideias uteis para construir sistemas, coisas e pessoas melhores.  
+Planejar ecossistemas — digitais e físicos — que se conectam, aprendem e resolvem problemas de verdade.
+
+>The world runs on open source
+
+---
+
+## 🛠️ Stack Principal
+
+### 💻 Linguagens e Frameworks  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+---
+
+### ⚙️ DevOps e Infraestrutura  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-00A86B?style=flat&logo=linux&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
+![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat&logo=adguard&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pihole&logoColor=white)
+
+---
+
+### 🗄️ Banco de Dados e Cloud  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=flat&logo=redis&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+
+---
+
+### 🧩 Ferramentas e Ecossistema  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![OpenLDAP](https://img.shields.io/badge/OpenLDAP-7E5AA6?style=flat&logo=ldap&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=microsoft&logoColor=white)
+![Seafile](https://img.shields.io/badge/Seafile-FFA500?style=flat&logo=seafile&logoColor=white)
+![FileBrowser](https://img.shields.io/badge/FileBrowser-4E9A06?style=flat&logo=files&logoColor=white)
+![Paperless](https://img.shields.io/badge/Paperless-009688?style=flat&logo=document&logoColor=white)
+![Authentik](https://img.shields.io/badge/Authentik-1F2233?style=flat&logo=auth0&logoColor=white)
+
+---
+
+## 🎓 Certificações e Reconhecimentos
+
+- Oracle Cloud Specialist  
+- Oracle ODBC  
+- Prompt Engineer Certified  
+- Proficiência em Inglês  
+- Professor Oficial Senac Novo Hamburgo 
 
 ---
 
 ## 📫 Contato
 
-- 🌐 [Website](https://gdbarros.com.br)  
-- 📧 contato@gdbarros.com.br 
+🌐 [gdbarros.com.br](https://gdbarros.com.br)  
+📧 contato@gdbarros.com.br  
+💼 [LinkedIn](https://www.linkedin.com/in/gdbarros94)  
 
 ---
 
-> Obrigado pela visita! Fique à vontade para explorar meus projetos e entrar em contato para parcerias e consultorias.
-> 
+## 📊 GitHub Analytics
 
-![gdbarros94's Stats](https://github-readme-stats.vercel.app/api?username=gdbarros94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![gdbarros94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdbarros94&theme=vue-dark&hide_border=true)
-![gdbarros94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdbarros94&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdbarros94&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdbarros94&theme=tokyonight&layout=compact)
 
+
+---
+
+> "Não basta dominar a ferramenta — é preciso ensinar a construir novas."
+> — Gabriel Barros
