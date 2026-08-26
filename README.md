@@ -10,6 +10,7 @@
 {
   "name": "Gabriel Pires de Barros",
   "role": "Software & AI Solutions Engineer",
+  "experience": "20+ anos de vivência em tecnologia",
   "specialties": [
     "Linux Server",
     "Cloud Infrastructure",
@@ -29,7 +30,7 @@
 
 ### ⚡ Sobre mim & Filosofia Técnica
 
-* **O Custo Mínimo para a Solução:** Aos 12 anos formatava computadores na vizinhança; aos 19 já coordenava equipes, projetava data centers do zero e resolvia incidentes críticos de infraestrutura empresarial.
+* **O Custo Mínimo para a Solução:** Com **mais de 20 anos de experiência prática no universo da tecnologia**, comecei aos 12 anos formatando computadores na vizinhança. Aos 19, já coordenava equipes, projetava data centers do zero e resolvia incidentes críticos de infraestrutura empresarial.
 * **Engenharia de Soluções em IA:** Foco absoluto na construção de pontes entre infraestrutura resiliente e agentes autônomos de IA, priorizando **eficiência operacional, baixo consumo de tokens e compactação de prompts**.
 * **Agilidade & Adaptação:** *"A ferramenta é consequência do problema. A solução vem antes da stack."* Leitura rápida de restrições, dependências, riscos e arquiteturas modulares.
 * **Legado Docente:** Atuei como Professor Referência no Senac Novo Hamburgo, reescrevendo currículos de Desenvolvimento de Sistemas e liderando projetos de impacto social e técnico como o *Meninas na TI* (2023–2025).
@@ -73,3 +74,4 @@
 
 ---
 `// END OF SEQUENCE — THE NEXT MOVE IS YOURS.`
+```
